@@ -4,22 +4,18 @@
 
 <h1 align="center">Oleksandr — Full-Stack Developer</h1>
 
+<p align="center"><strong>Next.js · React · TypeScript · C# / .NET</strong></p>
+
 <p align="center">
-  <strong>Next.js · React · TypeScript · C# / .NET</strong>
+Computer Science student from Ukraine building full-stack web applications, backend APIs, and software projects.<br>
+<strong>Open to remote Junior Developer / Internship opportunities.</strong>
 </p>
 
 <p align="center">
-  Computer Science student from Ukraine building full-stack web applications and software projects.
-  <br>
-  <strong>Open to remote Junior Developer / Internship opportunities.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DayDreamingg-g/beauty-booking-site">Beauty Booking</a>
-  ·
-  <a href="https://github.com/DayDreamingg-g/TimeMachine.Agent">TimeMachine.Agent</a>
-  ·
-  <a href="https://github.com/DayDreamingg-g/CyberLab">CyberLab</a>
+<a href="https://github.com/DayDreamingg-g/beauty-booking-site">Beauty Booking</a> ·
+<a href="https://github.com/DayDreamingg-g/MiniBank-Ledger-API">MiniBank API</a> ·
+<a href="https://github.com/DayDreamingg-g/TimeMachine.Agent">TimeMachine.Agent</a> ·
+<a href="https://github.com/DayDreamingg-g/CyberLab">CyberLab</a>
 </p>
 
 ---
@@ -28,44 +24,30 @@
 
 I'm a Computer Science student from Ukraine focused on practical software development.
 
-I build projects that go beyond tutorial examples — from responsive web interfaces to backend logic, databases, admin dashboards, Windows APIs, and production deployments.
+I build projects that go beyond tutorial examples — from responsive web interfaces and admin dashboards to backend APIs, databases, Windows APIs, automated tests, CI pipelines, and production deployments.
 
 - 💻 Main focus: **Full-Stack / Frontend Development**
 - ⚛️ Web: **React, Next.js, TypeScript, JavaScript**
-- 🗄️ Backend & data: **REST APIs, Prisma, PostgreSQL, SQL**
+- 🔌 Backend: **ASP.NET Core, REST APIs, CQRS, MediatR**
+- 🗄️ Data: **Prisma, Entity Framework Core, PostgreSQL, SQLite, SQL**
 - 🧩 Additional development: **C# / .NET, Python**
-- 🛠️ Tools: **Git, GitHub, Docker, Vercel**
+- 🛠️ Tools: **Git, GitHub, GitHub Actions, Docker, Vercel**
 - 🔐 Additional interest: **Cybersecurity & Application Security**
-- 🌍 Languages: **Ukrainian, Russian, Technical English**
-- 💼 Currently open to **remote Junior Developer and Internship opportunities**
+- 🌍 Languages: **Ukrainian, Russian, English (B1)**
+- 💼 Open to **remote Junior Developer and Internship opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Web Development
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss)
+`JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
 
 ### Backend & Data
-
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-111111?style=flat-square)
+`ASP.NET Core` `REST API` `Prisma` `PostgreSQL` `EF Core` `SQLite` `CQRS` `MediatR`
 
 ### Software & Tools
-
-![C#](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=dotnet)
-![.NET](https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
+`C#` `.NET` `Python` `Git` `GitHub Actions` `Docker` `Linux`
 
 ---
 
@@ -75,24 +57,29 @@ I build projects that go beyond tutorial examples — from responsive web interf
 
 **Next.js · React · TypeScript · Prisma · PostgreSQL · Tailwind CSS**
 
-A full-stack booking and content-management platform for beauty salons.
+A full-stack booking and content-management platform for beauty salons, combining a customer-facing website with an administrative dashboard.
 
-The project combines a customer-facing website with an administrative dashboard for managing operational data and website content.
-
-**Highlights:**
-
-- service catalog with pricing and duration
-- master profiles and selection
-- booking requests
-- portfolio with category filtering
-- customer reviews and ratings
-- admin dashboard
-- booking status management
-- service, master and portfolio management
-- PostgreSQL persistence through Prisma
-- production deployment on Vercel
+**Highlights:** service catalog, master selection, booking requests, portfolio filtering, reviews and ratings, admin dashboard, booking status management, content management, PostgreSQL persistence through Prisma, and Vercel deployment.
 
 ### 🔗 [Live Demo](https://beauty-booking-site.vercel.app/) · [Repository](https://github.com/DayDreamingg-g/beauty-booking-site)
+
+---
+
+## 🏦 MiniBank Ledger API
+
+**ASP.NET Core · C# · Clean Architecture · CQRS · MediatR · EF Core · SQLite · xUnit**
+
+A backend financial ledger API built around clear architectural boundaries and maintainable application structure.
+
+**Highlights:**
+- Clean Architecture with Domain / Application / Infrastructure / API layers
+- CQRS pipeline with MediatR
+- transaction and reporting endpoints
+- Entity Framework Core persistence and migrations
+- automated tests with xUnit
+- GitHub Actions CI pipeline
+
+### 🔗 [Repository](https://github.com/DayDreamingg-g/MiniBank-Ledger-API)
 
 ---
 
@@ -100,17 +87,9 @@ The project combines a customer-facing website with an administrative dashboard 
 
 **C# · .NET 8 · SQLite · WinAPI · GitHub REST API**
 
-A Windows productivity tracker that monitors active applications, detects idle time, stores activity sessions locally, and analyzes focus and distraction patterns.
+A Windows productivity tracker that monitors active applications, detects idle time, stores sessions locally, and analyzes focus and distraction patterns.
 
-**Highlights:**
-
-- active-window tracking through WinAPI
-- idle-time detection
-- SQLite session storage
-- deep-focus and distraction analytics
-- configurable tracking thresholds
-- productivity reports
-- GitHub public activity integration through REST API
+**Highlights:** WinAPI active-window tracking, idle detection, SQLite storage, focus/distraction analytics, configurable thresholds, productivity reports, and GitHub REST API integration.
 
 ### 🔗 [Repository](https://github.com/DayDreamingg-g/TimeMachine.Agent)
 
@@ -122,14 +101,7 @@ A Windows productivity tracker that monitors active applications, detects idle t
 
 A structured cybersecurity learning lab containing reproducible environments, practical exercises, notes, and bilingual technical reports.
 
-**Current areas:**
-
-- Kali Linux lab environment
-- Linux fundamentals
-- TCP/IP and networking fundamentals
-- DHCP, DNS, gateways, ARP and NAT
-- Git workflow
-- technical documentation in English and Russian
+Current areas include Kali Linux, Linux fundamentals, TCP/IP, DHCP, DNS, gateways, ARP, NAT, Git workflow, and technical documentation.
 
 CyberLab represents my ongoing interest in security and my longer-term direction toward **Web Security / Application Security**.
 
@@ -139,21 +111,21 @@ CyberLab represents my ongoing interest in security and my longer-term direction
 
 ## 🎯 Current Focus
 
-I'm currently focused on:
-
-- improving my React / Next.js development skills
-- building and polishing production-style portfolio projects
-- backend integration and relational databases
-- writing maintainable TypeScript and C# code
-- learning software security alongside development
+- React / Next.js and TypeScript
+- production-style full-stack projects
+- backend API development with ASP.NET Core
+- relational databases and application architecture
+- automated testing and CI workflows
+- software security alongside development
 - preparing for my first professional developer role
 
 ---
 
 ## 📫 Contact
 
-The easiest way to reach me is through GitHub.
+**Email:** oleksandr.stepanov.tech@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/daydreamingg/  
+**GitHub:** https://github.com/DayDreamingg-g  
+**Live project:** https://beauty-booking-site.vercel.app/
 
-### [GitHub — DayDreamingg-g](https://github.com/DayDreamingg-g)
-
-I'm open to **remote Junior Frontend, Full-Stack, Web Developer, and Internship opportunities**.
+Open to **remote Junior Frontend, Full-Stack, Web Developer, Backend Developer, and Internship opportunities**.
