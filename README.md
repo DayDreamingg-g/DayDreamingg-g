@@ -1,125 +1,159 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Oleksandr Stepanov — Cybersecurity and Software Development" width="100%">
+  <img src="https://raw.githubusercontent.com/DayDreamingg-g/DayDreamingg-g/main/assets/banner.png" alt="Day Dreaming banner" width="100%">
 </p>
 
-<h1 align="center">Day Dreamingg</h1>
+<h1 align="center">Oleksandr — Full-Stack Developer</h1>
 
 <p align="center">
-  <strong>Computer Science Student · Cybersecurity Learner · Software Developer</strong>
-</p>
-
-<p align="center">
-  Building practical skills for a <strong>Junior SOC / Cybersecurity Analyst</strong> role,
-  with a long-term focus on <strong>Web Security and AppSec</strong>.
+  <strong>Next.js · React · TypeScript · C# / .NET</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DayDreamingg-g/CyberLab">
-    <img src="https://img.shields.io/badge/Current_Project-CyberLab-181717?style=for-the-badge&logo=github" alt="CyberLab">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0A66C2?style=for-the-badge" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Status-Learning%20in%20Public-2EA44F?style=for-the-badge" alt="Learning in Public">
+  Computer Science student from Ukraine building full-stack web applications and software projects.
+  <br>
+  <strong>Open to remote Junior Developer / Internship opportunities.</strong>
 </p>
-
----
-
-## About Me
-
-I am a Computer Science student from Ukraine with a software-development background and a growing focus on cybersecurity.
-
-My current work is centered on building a reproducible home lab, understanding how systems and networks behave, and documenting every practical step in English and Russian.
-
-- Currently learning: networking, Linux, Windows, SOC fundamentals, log analysis and defensive security
-- Current project: [CyberLab](https://github.com/DayDreamingg-g/CyberLab)
-- Career target: Junior SOC / Cybersecurity Analyst
-- Long-term direction: Web Security and Application Security
-- Development background: web applications, backend logic, automation and databases
-- Languages: Ukrainian, Russian and technical English
-
-> I learn by building, testing, explaining the result in my own words, and publishing the evidence.
-
----
-
-## Security & Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11">
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
-  <img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge" alt="Networking">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
-## Development Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
-
----
-
-## Featured Project
-
-### [CyberLab — Practical Cybersecurity Learning Lab](https://github.com/DayDreamingg-g/CyberLab)
 
 <p align="center">
-  <a href="https://github.com/DayDreamingg-g/CyberLab">
-    <img src="https://raw.githubusercontent.com/DayDreamingg-g/CyberLab/main/Images/clean-kali.png" alt="CyberLab Kali Linux lab" width="760">
-  </a>
-</p>
-
-CyberLab is my structured cybersecurity learning environment built around practical exercises, reproducible lab setups and bilingual technical reports.
-
-The project currently demonstrates:
-
-- clean Kali Linux deployment in Oracle VirtualBox;
-- safe lab configuration and snapshot management;
-- practical networking fundamentals;
-- understanding of IP addressing, subnet masks, DHCP, DNS, gateways, ARP and NAT;
-- Linux terminal usage and command breakdowns;
-- Git and GitHub workflow;
-- technical documentation in English and Russian.
-
-#### Published reports
-
-| Stage | English | Russian |
-|---|---|---|
-| Kali Linux lab setup | [Read report](https://github.com/DayDreamingg-g/CyberLab/blob/main/Reports/en/00-kali-setup-en.md) | [Читать отчёт](https://github.com/DayDreamingg-g/CyberLab/blob/main/Reports/ru/00-kali-setup-ru.md) |
-| Network fundamentals | [Read report](https://github.com/DayDreamingg-g/CyberLab/blob/main/Reports/en/01-network-basics-en.md) | [Читать отчёт](https://github.com/DayDreamingg-g/CyberLab/blob/main/Reports/ru/01-network-basics-ru.md) |
-
-<p>
-  <a href="https://github.com/DayDreamingg-g/CyberLab">
-    <img src="https://img.shields.io/badge/Open_CyberLab-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open CyberLab">
-  </a>
+  <a href="https://github.com/DayDreamingg-g/beauty-booking-site">Beauty Booking</a>
+  ·
+  <a href="https://github.com/DayDreamingg-g/TimeMachine.Agent">TimeMachine.Agent</a>
+  ·
+  <a href="https://github.com/DayDreamingg-g/CyberLab">CyberLab</a>
 </p>
 
 ---
 
-## Current Roadmap
+## 👋 About Me
 
-- Network fundamentals and traffic flow
-- Linux command line and system administration
-- Windows internals and PowerShell
-- Logs, events and basic incident investigation
-- SOC tools and SIEM fundamentals
-- Python automation for security tasks
-- Web security and AppSec fundamentals
+I'm a Computer Science student from Ukraine focused on practical software development.
+
+I build projects that go beyond tutorial examples — from responsive web interfaces to backend logic, databases, admin dashboards, Windows APIs, and production deployments.
+
+- 💻 Main focus: **Full-Stack / Frontend Development**
+- ⚛️ Web: **React, Next.js, TypeScript, JavaScript**
+- 🗄️ Backend & data: **REST APIs, Prisma, PostgreSQL, SQL**
+- 🧩 Additional development: **C# / .NET, Python**
+- 🛠️ Tools: **Git, GitHub, Docker, Vercel**
+- 🔐 Additional interest: **Cybersecurity & Application Security**
+- 🌍 Languages: **Ukrainian, Russian, Technical English**
+- 💼 Currently open to **remote Junior Developer and Internship opportunities**
 
 ---
 
-## Contact
+## 🛠️ Tech Stack
 
-<p>
-  <a href="https://github.com/DayDreamingg-g">
-    <img src="https://img.shields.io/badge/GitHub-DayDreamingg--g-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
-  </a>
-</p>
+### Web Development
 
-I am interested in cybersecurity learning communities, practical lab collaboration and future junior opportunities in Europe.
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss)
+
+### Backend & Data
+
+![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=flat-square)
+
+### Software & Tools
+
+![C#](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=dotnet)
+![.NET](https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
+
+---
+
+# 🚀 Featured Projects
+
+## ✨ Beauty Booking Platform
+
+**Next.js · React · TypeScript · Prisma · PostgreSQL · Tailwind CSS**
+
+A full-stack booking and content-management platform for beauty salons.
+
+The project combines a customer-facing website with an administrative dashboard for managing operational data and website content.
+
+**Highlights:**
+
+- service catalog with pricing and duration
+- master profiles and selection
+- booking requests
+- portfolio with category filtering
+- customer reviews and ratings
+- admin dashboard
+- booking status management
+- service, master and portfolio management
+- PostgreSQL persistence through Prisma
+- production deployment on Vercel
+
+### 🔗 [Live Demo](https://beauty-booking-site.vercel.app/) · [Repository](https://github.com/DayDreamingg-g/beauty-booking-site)
+
+---
+
+## ⏱️ TimeMachine.Agent
+
+**C# · .NET 8 · SQLite · WinAPI · GitHub REST API**
+
+A Windows productivity tracker that monitors active applications, detects idle time, stores activity sessions locally, and analyzes focus and distraction patterns.
+
+**Highlights:**
+
+- active-window tracking through WinAPI
+- idle-time detection
+- SQLite session storage
+- deep-focus and distraction analytics
+- configurable tracking thresholds
+- productivity reports
+- GitHub public activity integration through REST API
+
+### 🔗 [Repository](https://github.com/DayDreamingg-g/TimeMachine.Agent)
+
+---
+
+## 🛡️ CyberLab
+
+**Linux · Networking · VirtualBox · Git · Cybersecurity**
+
+A structured cybersecurity learning lab containing reproducible environments, practical exercises, notes, and bilingual technical reports.
+
+**Current areas:**
+
+- Kali Linux lab environment
+- Linux fundamentals
+- TCP/IP and networking fundamentals
+- DHCP, DNS, gateways, ARP and NAT
+- Git workflow
+- technical documentation in English and Russian
+
+CyberLab represents my ongoing interest in security and my longer-term direction toward **Web Security / Application Security**.
+
+### 🔗 [Repository](https://github.com/DayDreamingg-g/CyberLab)
+
+---
+
+## 🎯 Current Focus
+
+I'm currently focused on:
+
+- improving my React / Next.js development skills
+- building and polishing production-style portfolio projects
+- backend integration and relational databases
+- writing maintainable TypeScript and C# code
+- learning software security alongside development
+- preparing for my first professional developer role
+
+---
+
+## 📫 Contact
+
+The easiest way to reach me is through GitHub.
+
+### [GitHub — DayDreamingg-g](https://github.com/DayDreamingg-g)
+
+I'm open to **remote Junior Frontend, Full-Stack, Web Developer, and Internship opportunities**.
