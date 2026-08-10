@@ -24,6 +24,29 @@ Building practical systems with AI, APIs, databases and automation.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-daydreamingg-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/daydreamingg)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oleksandr.stepanov.tech@gmail.com)
 
+<br>
+
+### ⚡ Quick Navigation
+
+[About Me](#-about-me) ·
+[AI Automation](#-ai--automation) ·
+[Full-Stack](#-full-stack-development) ·
+[Cybersecurity](#-cybersecurity) ·
+[Tech Stack](#️-tech-stack) ·
+[Current Focus](#-current-focus) ·
+[Contact](#-contact)
+
+<br>
+
+### 🚀 Quick Project Links
+
+[AI Customer Support](https://github.com/DayDreamingg-g/AI-Customer-Support-Automation) ·
+[AI Lead Automation](https://github.com/DayDreamingg-g/n8n-ai-lead-automation) ·
+[Telegram AI Generator](https://github.com/DayDreamingg-g/n8n-telegram-ai-script-generator) ·
+[Beauty Booking](https://beauty-booking-site.vercel.app/) ·
+[MiniBank API](https://github.com/DayDreamingg-g/MiniBank-Ledger-API) ·
+[CyberLab](https://github.com/DayDreamingg-g/CyberLab)
+
 </div>
 
 ---
@@ -322,4 +345,8 @@ I particularly enjoy building systems where multiple technologies communicate wi
 
 ---
 
+<div align="center">
+
 ### 💼 Open to Remote Junior Developer, AI Automation, and Internship opportunities.
+
+</div>
