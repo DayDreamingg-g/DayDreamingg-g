@@ -1,43 +1,44 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Oleksandr Stepanov — Full-Stack Development and AI Automation" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">Oleksandr — Full-Stack Developer</h1>
+# Oleksandr Stepanov
 
-<p align="center">
-  <b>Next.js · React · TypeScript · C# / .NET · n8n · OpenAI</b>
-</p>
+### AI Automation · Backend Development · Full-Stack
 
-<p align="center">
-  Computer Science student from Ukraine building full-stack applications, backend APIs, and AI-powered automation workflows.
-</p>
+Building practical systems with AI, APIs, databases and automation.
 
-<p align="center">
-  <b>Open to remote Junior Developer, AI Automation, and Internship opportunities.</b>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://beauty-booking-site.vercel.app/">Beauty Booking</a> ·
-  <a href="https://github.com/DayDreamingg-g/n8n-ai-lead-automation">AI Lead Qualification</a> ·
-  <a href="https://github.com/DayDreamingg-g/n8n-telegram-ai-script-generator">Telegram AI Generator</a> ·
-  <a href="https://github.com/DayDreamingg-g/MiniBank-Ledger-API">MiniBank API</a> ·
-  <a href="https://github.com/DayDreamingg-g/TimeMachine.Agent">TimeMachine.Agent</a> ·
-  <a href="https://github.com/DayDreamingg-g/CyberLab">CyberLab</a>
-</p>
+<img src="https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-AI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
+<br><br>
+
+**AI Automation** · **REST APIs** · **PostgreSQL** · **n8n** · **OpenAI** · **Next.js** · **ASP.NET Core**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-DayDreamingg--g-181717?style=flat-square&logo=github)](https://github.com/DayDreamingg-g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daydreamingg-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/daydreamingg)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oleksandr.stepanov.tech@gmail.com)
+
+</div>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I'm a Computer Science student from Ukraine focused on practical software development and automation.
+I'm a Computer Science student from Ukraine focused on **AI automation, backend development, and practical software engineering**.
 
-I build projects that go beyond tutorial examples — from responsive web applications and backend APIs to event-driven AI automation workflows that connect external services, databases, messaging platforms, and AI models.
+I build projects that go beyond tutorial examples — from AI-powered automation workflows and backend APIs to full-stack web applications that connect external services, databases, messaging platforms, and AI models.
 
+- 🤖 **AI & Automation:** n8n, OpenAI, AI Agents, LLM workflows
 - 💻 **Full-Stack:** React, Next.js, TypeScript, JavaScript
 - ⚙️ **Backend:** ASP.NET Core, REST APIs, CQRS, MediatR
 - 🗄️ **Data:** PostgreSQL, SQLite, SQL, Prisma, Entity Framework Core
-- 🤖 **AI & Automation:** n8n, OpenAI, AI Agents, workflow automation
-- 🔗 **Integrations:** Telegram Bot API, Google Sheets, OAuth 2.0
+- 🔗 **Integrations:** Telegram Bot API, Google Sheets, OAuth 2.0, Webhooks
 - 🛠️ **Tools:** Git, GitHub, GitHub Actions, Docker, Linux, Vercel
 - 🔐 **Additional interest:** Cybersecurity & Application Security
 - 🌍 **Languages:** Ukrainian, Russian, English (B1)
@@ -49,11 +50,56 @@ I build projects that go beyond tutorial examples — from responsive web applic
 
 ## 🤖 AI & Automation
 
+### 🎧 AI Customer Support Automation
+
+**n8n · OpenAI · PostgreSQL · SQL · REST API · Webhooks**
+
+AI-powered customer support automation that receives support tickets through an authenticated webhook and automatically processes them using AI.
+
+The workflow validates and stores incoming tickets, generates dynamic tags, determines priority, creates a concise support summary, and marks completed tickets as processed.
+
+```text
+Support Ticket
+      ↓
+Authenticated Webhook
+      ↓
+Validation
+      ↓
+PostgreSQL
+      ↓
+AI Tag Generation
+      ↓
+Store Tags
+      ↓
+AI Priority Classification
+      ↓
+AI Summary Generation
+      ↓
+Mark as Processed
+```
+
+**Key features:**
+
+- Authenticated REST webhook
+- Input validation
+- PostgreSQL ticket persistence
+- Dynamic AI-generated tags
+- Structured LLM outputs
+- AI-based priority classification
+- AI-generated ticket summaries
+- Relational ticket/tag storage
+- Automatic processing status updates
+- Multi-step n8n workflow orchestration
+
+➡️ **[View Repository](https://github.com/DayDreamingg-g/AI-Customer-Support-Automation)**
+
+---
+
 ### 🔥 AI Lead Qualification Automation
 
 **n8n · OpenAI · Google Sheets · Telegram · OAuth 2.0**
 
-An automated lead qualification workflow that receives new leads from Google Forms, scores them based on **budget and urgency**, classifies them as **Cold / Warm / Hot**, analyzes the client's request with AI, stores the processed result, and sends priority Telegram alerts.
+Automated lead qualification workflow that receives new leads from Google Forms, scores them based on **budget and urgency**, classifies them as **Cold / Warm / Hot**, analyzes the client's request with AI, stores the processed result, and sends priority Telegram alerts.
 
 ```text
 Google Form
@@ -81,8 +127,8 @@ Telegram Alerts
 - Budget and urgency scoring
 - Cold / Warm / Hot classification
 - Multi-branch workflow routing
-- AI-generated request summary
-- AI-generated category and recommended action
+- AI-generated request summaries
+- AI-generated categories and recommended actions
 - Google Sheets integration through OAuth 2.0
 - Data normalization
 - Processed lead storage
@@ -96,9 +142,9 @@ Telegram Alerts
 
 **n8n · OpenAI · Telegram Bot API · AI Agent**
 
-An AI-powered Telegram bot that generates structured short-form video scripts from user topics and stores generation history.
+AI-powered Telegram bot that generates structured short-form video scripts from user topics and stores generation history.
 
-The workflow also implements bot command routing, persistent per-chat history, aggregation, fallback handling, and automatic response delivery.
+The workflow implements bot command routing, persistent per-chat history, aggregation, fallback handling, and automatic response delivery.
 
 ```text
 Telegram Message
@@ -143,15 +189,14 @@ Full-stack booking platform designed for beauty salons and barbershops.
 
 Clients can browse services and specialists, select a date and time, and submit booking requests online.
 
-The project includes:
+**Key features:**
 
 - Responsive user interface
 - Service and specialist selection
-- Booking workflow
+- Online booking workflow
 - REST API
-- Database integration
+- PostgreSQL database integration
 - Prisma ORM
-- PostgreSQL
 - Administration functionality
 - Production deployment
 
@@ -204,7 +249,7 @@ The project tracks:
 
 Practical cybersecurity learning repository containing hands-on labs, networking exercises, Linux practice, technical notes, and security reports.
 
-Current areas of study include:
+**Current areas of study:**
 
 - Networking fundamentals
 - TCP/IP
@@ -224,39 +269,29 @@ Current areas of study include:
 
 # 🛠️ Tech Stack
 
-### Web Development
+### 🤖 AI & Automation
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111?style=flat-square&logo=tailwindcss)
+`n8n` · `OpenAI` · `AI Agents` · `LLM Workflows` · `Workflow Automation`
 
-### Backend & Data
+### 💻 Web Development
 
-![C#](https://img.shields.io/badge/C%23-111?style=flat-square&logo=dotnet)
-![.NET](https://img.shields.io/badge/.NET-111?style=flat-square&logo=dotnet)
-![REST API](https://img.shields.io/badge/REST_API-111?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-111?style=flat-square&logo=sqlite)
-![Prisma](https://img.shields.io/badge/Prisma-111?style=flat-square&logo=prisma)
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS`
 
-### AI & Automation
+### ⚙️ Backend
 
-![n8n](https://img.shields.io/badge/n8n-111?style=flat-square&logo=n8n)
-![OpenAI](https://img.shields.io/badge/OpenAI-111?style=flat-square&logo=openai)
-![AI Agents](https://img.shields.io/badge/AI_Agents-111?style=flat-square)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-111?style=flat-square&logo=telegram)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-111?style=flat-square&logo=googlesheets)
+`C#` · `.NET` · `ASP.NET Core` · `REST APIs` · `CQRS` · `MediatR`
 
-### Software & Tools
+### 🗄️ Data
 
-![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111?style=flat-square&logo=githubactions)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux)
-![Vercel](https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel)
+`PostgreSQL` · `SQLite` · `SQL` · `Prisma` · `Entity Framework Core`
+
+### 🔗 Integrations
+
+`Webhooks` · `Telegram Bot API` · `Google Sheets` · `OAuth 2.0`
+
+### 🛠️ Tools
+
+`Git` · `GitHub` · `GitHub Actions` · `Docker` · `Linux` · `Vercel`
 
 ---
 
@@ -264,28 +299,27 @@ Current areas of study include:
 
 I'm currently developing my skills across:
 
-- Full-stack application development
-- Backend API architecture
 - AI-powered workflow automation
 - n8n workflow design
-- AI Agent integration
+- AI Agent and LLM integration
 - API and SaaS integrations
+- Backend API architecture
+- PostgreSQL and relational data
+- Full-stack application development
 - Cybersecurity fundamentals
 - Web Security & Application Security
 
-I particularly enjoy building systems where multiple technologies communicate with each other — APIs, databases, AI models, messaging platforms, and automation tools.
+I particularly enjoy building systems where multiple technologies communicate with each other — **APIs, databases, AI models, messaging platforms, and automation tools**.
 
 ---
 
 # 📫 Contact
 
-- **Email:** oleksandr.stepanov.tech@gmail.com
+- **Email:** [oleksandr.stepanov.tech@gmail.com](mailto:oleksandr.stepanov.tech@gmail.com)
 - **LinkedIn:** [linkedin.com/in/daydreamingg](https://linkedin.com/in/daydreamingg)
 - **GitHub:** [github.com/DayDreamingg-g](https://github.com/DayDreamingg-g)
 - **Live Project:** [Beauty Booking Platform](https://beauty-booking-site.vercel.app/)
 
 ---
 
-<p align="center">
-  <b>Open to remote Junior Developer, AI Automation, and Internship opportunities.</b>
-</p>
+### 💼 Open to Remote Junior Developer, AI Automation, and Internship opportunities.
