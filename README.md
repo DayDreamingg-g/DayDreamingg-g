@@ -11,7 +11,6 @@
   <a href="mailto:oleksandr.stepanov.tech@gmail.com"><b>EMAIL</b></a>
   &nbsp;<code>◆</code>
 </p>
----
 
 ## 👋 About Me
 
