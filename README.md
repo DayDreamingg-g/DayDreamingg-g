@@ -1,352 +1,222 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner-v2.png" alt="Oleksandr Stepanov — AI Automation & Software Developer" width="100%" />
+</p>
 
-# Oleksandr Stepanov
-
-### AI Automation · Backend Development · Full-Stack
-
-Building practical systems with AI, APIs, databases and automation.
-
-<br>
-
-<img src="https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white">
-<img src="https://img.shields.io/badge/OpenAI-AI-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/.NET-Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-
-<br><br>
-
-**AI Automation** · **REST APIs** · **PostgreSQL** · **n8n** · **OpenAI** · **Next.js** · **ASP.NET Core**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-DayDreamingg--g-181717?style=flat-square&logo=github)](https://github.com/DayDreamingg-g)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daydreamingg-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/daydreamingg)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oleksandr.stepanov.tech@gmail.com)
-
-<br>
-
-### ⚡ Quick Navigation
-
-[About Me](#-about-me) ·
-[AI Automation](#-ai--automation) ·
-[Full-Stack](#-full-stack-development) ·
-[Cybersecurity](#-cybersecurity) ·
-[Tech Stack](#️-tech-stack) ·
-[Current Focus](#-current-focus) ·
-[Contact](#-contact)
-
-<br>
-
-### 🚀 Quick Project Links
-
-[AI Customer Support](https://github.com/DayDreamingg-g/AI-Customer-Support-Automation) ·
-[AI Lead Automation](https://github.com/DayDreamingg-g/n8n-ai-lead-automation) ·
-[Telegram AI Generator](https://github.com/DayDreamingg-g/n8n-telegram-ai-script-generator) ·
-[Beauty Booking](https://beauty-booking-site.vercel.app/) ·
-[MiniBank API](https://github.com/DayDreamingg-g/MiniBank-Ledger-API) ·
-[CyberLab](https://github.com/DayDreamingg-g/CyberLab)
-
-</div>
+<p align="center">
+  <a href="https://daydreamingg-g.github.io/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/daydreamingg/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:oleksandr.stepanov.tech@gmail.com">Email</a>
+</p>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
 I'm a Computer Science student from Ukraine focused on **AI automation, backend development, and practical software engineering**.
 
-I build projects that go beyond tutorial examples — from AI-powered automation workflows and backend APIs to full-stack web applications that connect external services, databases, messaging platforms, and AI models.
+I build systems that connect **AI models, APIs, databases, messaging platforms, and external services** — with a focus on workflows that solve real problems rather than isolated demos.
 
-- 🤖 **AI & Automation:** n8n, OpenAI, AI Agents, LLM workflows
-- 💻 **Full-Stack:** React, Next.js, TypeScript, JavaScript
-- ⚙️ **Backend:** ASP.NET Core, REST APIs, CQRS, MediatR
-- 🗄️ **Data:** PostgreSQL, SQLite, SQL, Prisma, Entity Framework Core
-- 🔗 **Integrations:** Telegram Bot API, Google Sheets, OAuth 2.0, Webhooks
-- 🛠️ **Tools:** Git, GitHub, GitHub Actions, Docker, Linux, Vercel
-- 🔐 **Additional interest:** Cybersecurity & Application Security
-- 🌍 **Languages:** Ukrainian, Russian, English (B1)
-- 💼 **Open to:** Remote Junior Developer, AI Automation, and Internship opportunities
+Currently looking for **Junior / Internship opportunities** in:
+
+- AI Automation
+- Workflow Automation
+- AI/API Integrations
+- Backend Development
+- Software Development
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 AI & Automation
+### 🤖 AI Customer Support Automation
 
-### 🎧 AI Customer Support Automation
+AI-powered customer support workflow built with **n8n, OpenAI, and PostgreSQL**.
 
-**n8n · OpenAI · PostgreSQL · SQL · REST API · Webhooks**
+Receives support tickets through an authenticated webhook, validates and stores them, generates AI-powered tags and priority, creates concise summaries, and updates ticket processing state.
 
-AI-powered customer support automation that receives support tickets through an authenticated webhook and automatically processes them using AI.
+**Highlights**
+- Authenticated webhook intake
+- PostgreSQL persistence
+- AI-generated tags
+- Dynamic priority classification
+- Structured LLM output
+- Automated ticket summaries
+- Error handling and deterministic workflow logic
 
-The workflow validates and stores incoming tickets, generates dynamic tags, determines priority, creates a concise support summary, and marks completed tickets as processed.
+**Stack:** `n8n` · `OpenAI` · `PostgreSQL` · `REST API` · `Webhooks` · `Structured Output`
 
-```text
-Support Ticket
-      ↓
-Authenticated Webhook
-      ↓
-Validation
-      ↓
-PostgreSQL
-      ↓
-AI Tag Generation
-      ↓
-Store Tags
-      ↓
-AI Priority Classification
-      ↓
-AI Summary Generation
-      ↓
-Mark as Processed
-```
-
-**Key features:**
-
-- Authenticated REST webhook
-- Input validation
-- PostgreSQL ticket persistence
-- Dynamic AI-generated tags
-- Structured LLM outputs
-- AI-based priority classification
-- AI-generated ticket summaries
-- Relational ticket/tag storage
-- Automatic processing status updates
-- Multi-step n8n workflow orchestration
-
-➡️ **[View Repository](https://github.com/DayDreamingg-g/AI-Customer-Support-Automation)**
+[View Repository →](https://github.com/DayDreamingg-g/AI-Customer-Support-Automation)
 
 ---
 
-### 🔥 AI Lead Qualification Automation
+### 🎯 AI Lead Qualification Automation
 
-**n8n · OpenAI · Google Sheets · Telegram · OAuth 2.0**
+AI-powered workflow for automatically evaluating and prioritizing incoming leads.
 
-Automated lead qualification workflow that receives new leads from Google Forms, scores them based on **budget and urgency**, classifies them as **Cold / Warm / Hot**, analyzes the client's request with AI, stores the processed result, and sends priority Telegram alerts.
+Scores leads using business criteria, classifies them as **Cold / Warm / Hot**, performs AI analysis, stores processed data in Google Sheets, and sends priority notifications through Telegram.
 
-```text
-Google Form
-      ↓
-Google Sheets
-      ↓
-Budget Scoring
-      ↓
-Urgency Scoring
-      ↓
-Total Score
-      ↓
-Cold / Warm / Hot
-      ↓
-OpenAI Analysis
-      ↓
-Processed Leads
-      ↓
-Telegram Alerts
-```
-
-**Key features:**
-
-- Event-driven lead processing
-- Budget and urgency scoring
+**Highlights**
+- Lead scoring by budget and urgency
 - Cold / Warm / Hot classification
-- Multi-branch workflow routing
-- AI-generated request summaries
-- AI-generated categories and recommended actions
-- Google Sheets integration through OAuth 2.0
-- Data normalization
-- Processed lead storage
-- Hot and Warm Telegram notifications
+- OpenAI analysis
+- Google Sheets integration
+- OAuth 2.0 authentication
+- Telegram priority alerts
+- Automated workflow execution
 
-➡️ **[View Repository](https://github.com/DayDreamingg-g/n8n-ai-lead-automation)**
+**Stack:** `n8n` · `OpenAI` · `Google Sheets` · `OAuth 2.0` · `Telegram` · `Webhooks`
+
+[View Repository →](https://github.com/DayDreamingg-g/n8n-ai-lead-automation)
 
 ---
 
-### 🎬 Telegram AI Script Generator
+### ✍️ Telegram AI Script Generator
 
-**n8n · OpenAI · Telegram Bot API · AI Agent**
+Telegram AI bot for generating structured short-form video scripts.
 
-AI-powered Telegram bot that generates structured short-form video scripts from user topics and stores generation history.
+Handles Telegram commands, generates scripts using OpenAI, stores generation history, manages invalid input, and automatically delivers responses back to the user.
 
-The workflow implements bot command routing, persistent per-chat history, aggregation, fallback handling, and automatic response delivery.
-
-```text
-Telegram Message
-      ↓
-Command Detection
-      ↓
-      ├── /start
-      ├── /help
-      ├── /history
-      └── Regular Message
-              ↓
-          OpenAI Agent
-              ↓
-          Save History
-              ↓
-        Telegram Response
-```
-
-**Key features:**
-
+**Highlights**
+- Telegram command routing
 - AI-powered script generation
-- Telegram event trigger
-- OpenAI integration
-- Command detection and routing
-- `/start`, `/help`, `/history`
 - Persistent generation history
-- History filtering and aggregation
-- Unknown-command fallback
-- Automatic Telegram responses
+- Fallback handling
+- Automated response delivery
+- Multi-step n8n workflow
 
-➡️ **[View Repository](https://github.com/DayDreamingg-g/n8n-telegram-ai-script-generator)**
+**Stack:** `n8n` · `OpenAI` · `Telegram Bot API` · `Automation`
+
+[View Repository →](https://github.com/DayDreamingg-g/n8n-telegram-ai-script-generator)
 
 ---
-
-## 🌐 Full-Stack Development
 
 ### 💇 Beauty Booking Platform
 
-**Next.js · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL**
+Full-stack booking platform for managing services, masters, and customer appointments.
 
-Full-stack booking platform designed for beauty salons and barbershops.
+Built as a practical full-stack project with a production frontend, REST API, relational database, and booking workflow.
 
-Clients can browse services and specialists, select a date and time, and submit booking requests online.
-
-**Key features:**
-
-- Responsive user interface
-- Service and specialist selection
-- Online booking workflow
+**Highlights**
+- Full booking flow
 - REST API
-- PostgreSQL database integration
+- PostgreSQL database
 - Prisma ORM
-- Administration functionality
+- Responsive UI
 - Production deployment
 
-➡️ **[Live Demo](https://beauty-booking-site.vercel.app/)**
+**Stack:** `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS`
+
+[View Repository →](https://github.com/DayDreamingg-g/beauty-booking-site) · [Live Demo →](https://beauty-booking-site.vercel.app/)
 
 ---
 
-### 🏦 MiniBank Ledger API
+## 🧩 Other Projects
 
-**C# · ASP.NET Core · REST API · CQRS · MediatR · Entity Framework Core**
+### 🏦 MiniBank API
 
-Backend banking API focused on API architecture, business logic, persistence, and separation of responsibilities.
+Backend banking API built with **ASP.NET Core** and a layered architecture.
 
-**Focus areas:**
+Includes accounts, transactions, validation, structured API endpoints, CQRS-style request handling, and database persistence.
 
-- REST API design
-- ASP.NET Core
-- CQRS
-- MediatR
-- Entity Framework Core
-- Database persistence
-- Backend architecture
+**Stack:** `C#` · `ASP.NET Core` · `Entity Framework Core` · `MediatR` · `SQL`
 
-➡️ **[View Repository](https://github.com/DayDreamingg-g/MiniBank-Ledger-API)**
+[View Repository →](https://github.com/DayDreamingg-g)
 
 ---
 
-### ⏱️ TimeMachine Agent
+### ⏱️ TimeMachine
 
-**C# · .NET**
+Desktop productivity tracker built in **C# / .NET**.
 
-Productivity tracking application designed to monitor different activity states and generate productivity reports.
+Tracks working modes, inactivity, distractions, context switching, and generates productivity reports.
 
-The project tracks:
+**Stack:** `C#` · `.NET`
 
-- Focus sessions
-- Deep work
-- Idle time
-- Distractions
-- Activity switching
-- Productivity statistics
-
-➡️ **[View Repository](https://github.com/DayDreamingg-g/TimeMachine.Agent)**
+[View GitHub Profile →](https://github.com/DayDreamingg-g)
 
 ---
 
-## 🔐 Cybersecurity
+### 🔐 CyberLab
 
-### 🧪 CyberLab
+Practical cybersecurity learning environment with documented Linux and networking exercises.
 
-Practical cybersecurity learning repository containing hands-on labs, networking exercises, Linux practice, technical notes, and security reports.
+Topics include:
 
-**Current areas of study:**
-
-- Networking fundamentals
-- TCP/IP
+- Kali Linux setup
+- IP addressing and routing
 - DNS
 - DHCP
 - ARP
 - NAT
-- Linux
-- Kali Linux
-- SOC fundamentals
-- Web Security
-- Application Security
+- Linux networking tools
 
-➡️ **[View Repository](https://github.com/DayDreamingg-g/CyberLab)**
+[View Repository →](https://github.com/DayDreamingg-g)
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 🤖 AI & Automation
+### AI & Automation
 
-`n8n` · `OpenAI` · `AI Agents` · `LLM Workflows` · `Workflow Automation`
+`n8n` · `OpenAI` · `LLM Workflows` · `Structured Outputs` · `AI Agents` · `Prompt Engineering`
 
-### 💻 Web Development
+### Backend
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS`
+`C#` · `ASP.NET Core` · `REST APIs` · `Webhooks` · `Entity Framework Core` · `MediatR`
 
-### ⚙️ Backend
+### Web
 
-`C#` · `.NET` · `ASP.NET Core` · `REST APIs` · `CQRS` · `MediatR`
+`Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS`
 
-### 🗄️ Data
+### Data
 
-`PostgreSQL` · `SQLite` · `SQL` · `Prisma` · `Entity Framework Core`
+`PostgreSQL` · `SQLite` · `SQL` · `Prisma`
 
-### 🔗 Integrations
+### Integrations
 
-`Webhooks` · `Telegram Bot API` · `Google Sheets` · `OAuth 2.0`
+`Telegram Bot API` · `Google Sheets` · `OAuth 2.0` · `REST APIs` · `JSON`
 
-### 🛠️ Tools
+### Tools
 
-`Git` · `GitHub` · `GitHub Actions` · `Docker` · `Linux` · `Vercel`
-
----
-
-# 🎯 Current Focus
-
-I'm currently developing my skills across:
-
-- AI-powered workflow automation
-- n8n workflow design
-- AI Agent and LLM integration
-- API and SaaS integrations
-- Backend API architecture
-- PostgreSQL and relational data
-- Full-stack application development
-- Cybersecurity fundamentals
-- Web Security & Application Security
-
-I particularly enjoy building systems where multiple technologies communicate with each other — **APIs, databases, AI models, messaging platforms, and automation tools**.
+`Git` · `GitHub` · `Docker` · `Linux` · `Vercel` · `VS Code`
 
 ---
 
-# 📫 Contact
+## 🎯 Current Focus
 
-- **Email:** [oleksandr.stepanov.tech@gmail.com](mailto:oleksandr.stepanov.tech@gmail.com)
-- **LinkedIn:** [linkedin.com/in/daydreamingg](https://linkedin.com/in/daydreamingg)
-- **GitHub:** [github.com/DayDreamingg-g](https://github.com/DayDreamingg-g)
-- **Live Project:** [Beauty Booking Platform](https://beauty-booking-site.vercel.app/)
+Currently developing deeper skills in:
+
+- Advanced n8n workflow architecture
+- AI agents and tool-based workflows
+- Reliable LLM structured outputs
+- API integrations and authentication
+- Workflow monitoring and error handling
+- RAG and vector databases
+- Production-ready AI automation
 
 ---
 
-<div align="center">
+## 🎓 Education
 
-### 💼 Open to Remote Junior Developer, AI Automation, and Internship opportunities.
+**Mykolayiv National Agrarian University**  
+Bachelor's Degree Candidate — Computer Science  
+2024–2028
 
-</div>
+Focus areas include software development, databases, AI, data processing, backend systems, and automation.
+
+---
+
+## 📫 Contact
+
+**Portfolio:** https://daydreamingg-g.github.io/  
+**GitHub:** https://github.com/DayDreamingg-g  
+**LinkedIn:** https://www.linkedin.com/in/daydreamingg/  
+**Email:** oleksandr.stepanov.tech@gmail.com
+
+---
+
+<p align="center">
+  <b>Open to remote Junior / Internship opportunities in AI Automation and Software Development.</b>
+</p>
