@@ -8,6 +8,8 @@
   &nbsp;&nbsp;／&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/daydreamingg/"><b>LINKEDIN</b></a>
   &nbsp;&nbsp;／&nbsp;&nbsp;
+  <a href="https://discord.gg/Mxy9y8uMFJ"><b>DISCORD</b></a>
+  &nbsp;&nbsp;／&nbsp;&nbsp;
   <a href="mailto:oleksandr.stepanov.tech@gmail.com"><b>EMAIL</b></a>
   &nbsp;<code>◆</code>
 </p>
@@ -156,6 +158,28 @@ Topics include:
 
 ---
 
+## 📚 Learning in Public
+
+Alongside my projects, I'm building a public **Discord knowledge base** where I document what I learn while working with automation, APIs, backend systems, and AI.
+
+Instead of publishing only finished projects, I also document the process behind them:
+
+- Workflow architecture and component breakdowns
+- API, HTTP, webhook, and backend concepts
+- n8n configuration examples and screenshots
+- Validation and data-processing patterns
+- Mistakes, debugging, and troubleshooting
+- Practical notes from building each project
+- Structured learning guides and quick navigation
+
+The knowledge base grows together with my projects — from simple API and automation workflows to more advanced AI systems, agents, RAG, databases, and production-oriented integrations.
+
+> **Language:** The Discord server and learning notes are primarily in **Russian**.
+
+**[Join the Public Discord Knowledge Base →](https://discord.gg/Mxy9y8uMFJ)**
+
+---
+
 ## 🛠️ Tech Stack
 
 ### AI & Automation
@@ -213,6 +237,7 @@ Focus areas include software development, databases, AI, data processing, backen
 **Portfolio:** https://daydreamingg-g.github.io/  
 **GitHub:** https://github.com/DayDreamingg-g  
 **LinkedIn:** https://www.linkedin.com/in/daydreamingg/  
+**Discord Knowledge Base:** https://discord.gg/Mxy9y8uMFJ *(primarily Russian)*  
 **Email:** oleksandr.stepanov.tech@gmail.com
 
 ---
